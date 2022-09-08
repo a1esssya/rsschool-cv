@@ -3,11 +3,11 @@ Alesia Dubik
 
 CONTACTS
 
-Phone number: +375447634974
-Email: alesya.dubik.99@mail.ru
-Telegram: @a1esssya
-Github: github.com/a1esssya
-Linkedin: www.linkedin.com/in/alesia-dubik-24812b231
+- Phone number: +375447634974
+- Email: alesya.dubik.99@mail.ru
+- Telegram: @a1esssya
+- Github: github.com/a1esssya
+- Linkedin: www.linkedin.com/in/alesia-dubik-24812b231
 
 
 PROFILE
@@ -55,6 +55,7 @@ During this project, the following were implemented:
 - work with libraries ( MUI, Formik, Yup)
 - development of design and ideas for this project
 - work with GitHub
+
 Link: github.com/a1esssya/react-project
 
 CANTEEN WEBSITE (UNIVERSITY)
@@ -62,6 +63,7 @@ During this project, the following were implemented:
 - work in a team of 3 developers, 2 designers and team leader
 - work with scrum methodology and collaboration tool Trello
 - build a multi-page site using HTML, CSS, JS
+
 Link: oblizheshsya.github.io/main-project/main%20page/index.html
 
 All projects were completed on time
